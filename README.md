@@ -6,7 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedrinhoDias19&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Lucas Dias" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinhoDias19&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117" />
 </div>
-username=PedrinhoDias19&=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
 
 </div>
 
